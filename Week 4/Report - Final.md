@@ -2,7 +2,7 @@
 
 ## Table of contents:
 1. [Introduction: Business Problem](#introduction)
-2. [Data Requirements](#data)
+2. [Data](#data)
 3. [Methodology](#methodology)
 4. [Analysis](#analysis)
 5. [Result](#results)
